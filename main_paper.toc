@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Abstract}{4}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{4}{section.2}%
+\contentsline {section}{\numberline {3}Background}{4}{section.3}%
+\contentsline {subsection}{\numberline {a.}Braided Pneumatic Actuator}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {b.}Length Sensor VL53L0X}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {c.}Models}{4}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Methodology}{4}{section.4}%
+\contentsline {subsection}{\numberline {a.}Length Sensor characteristics}{4}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {i.}Sensor drift and variation}{5}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {ii.}Noise filtering}{6}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {b.}Leak Test}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {c.}Calibration}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {d.}Dynamic Testing}{7}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Results}{7}{section.5}%
+\contentsline {subsection}{\numberline {a.}Performance in atmospheric}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {b.}Performance inside muscle with filtering and calibration}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {c.}Dynamic Performance}{7}{subsection.5.3}%
+\contentsline {subsection}{\numberline {d.}Reflectivity}{7}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Discussion and Conclusion}{7}{section.6}%
+\contentsline {subsection}{\numberline {a.}Reflectivity}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {b.}Length sensing in general}{7}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Future Work}{7}{section.7}%
